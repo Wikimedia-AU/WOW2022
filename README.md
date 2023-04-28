@@ -12,11 +12,11 @@ wget \
 --restrict-file-names=windows \
 --no-parent \
 -e robots=off \
-https://buntyavieson7.wixsite.com/website-1 \
-https://buntyavieson7.wixsite.com/website-1/program \
-https://buntyavieson7.wixsite.com/website-1/team-4 \
-https://buntyavieson7.wixsite.com/website-1/about-3 \
-https://buntyavieson7.wixsite.com/website-1/your-visit
+https://<user>.wixsite.com/website-1 \
+https://<user>.wixsite.com/website-1/program \
+https://<user>.wixsite.com/website-1/team-4 \
+https://<user>.wixsite.com/website-1/about-3 \
+https://<user>.wixsite.com/website-1/your-visit
 ```
 
 And then tidied up by hand.
